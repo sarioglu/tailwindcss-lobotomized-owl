@@ -1,0 +1,29 @@
+{
+  "name": "tailwindcss-lobotomized-owl",
+  "version": "1.0.0",
+  "description": "A Tailwind CSS plugin to generate lobotomized owl spacing classes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarioglu/tailwindcss-lobotomized-owl.git"
+  },
+  "keywords": [
+    "tailwindcss",
+    "owl",
+    "lobotomized owl",
+    "* + *"
+  ],
+  "author": "sarioglu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sarioglu/tailwindcss-lobotomized-owl/issues"
+  },
+  "homepage": "https://github.com/sarioglu/tailwindcss-lobotomized-owl#readme",
+  "peerDependencies": {
+    "lodash": "^4.17.15",
+    "tailwindcss": "^1.2.0"
+  }
+}
