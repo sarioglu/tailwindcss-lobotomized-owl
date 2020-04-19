@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-lobotomized-owl",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A Tailwind CSS plugin to generate lobotomized owl spacing classes.",
   "main": "index.js",
   "scripts": {

@@ -28,8 +28,8 @@ module.exports = {
 
 This plugin provides two main classes:
 
-- `.ox-{size}` can be used to arrange vertical spacing.
-- `.oy-{size}` can be used to arrange horizontal spacing.
+- `.ox-{size}` can be used to arrange horizontal spacing.
+- `.oy-{size}` can be used to arrange vertical spacing.
 
 ## Customization
 

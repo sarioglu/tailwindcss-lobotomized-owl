@@ -7,10 +7,10 @@ module.exports = plugin(
   function ({ addUtilities, e, theme, variants }) {
     const generator = (size, modifier) => ({
       [`.${e(`ox-${modifier}`)} > * + *`]: {
-        "margin-top": `${size}`,
+        "margin-left": `${size}`,
       },
       [`.${e(`oy-${modifier}`)} > * + *`]: {
-        "margin-left": `${size}`,
+        "margin-top": `${size}`,
       },
     });
 
