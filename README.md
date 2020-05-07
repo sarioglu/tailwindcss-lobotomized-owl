@@ -1,3 +1,7 @@
+**THIS PACKAGE IS NO LONGER MAINTAINED**
+
+You can upgrade to Tailwind CSS v1.3 or later to use [Space Between](https://tailwindcss.com/docs/space) feature.
+
 # Tailwind CSS Lobotomized Owl plugin
 
 This plugin provides lobotomized owl (`* + *`) selectors to arrange spacing between elements. It uses default spacing scale by default. Also it can be configured independently.
